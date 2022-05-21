@@ -1,5 +1,7 @@
 #include "api.h"
 #include <gmsh>
+#include <string>
+#include <vector>
 #include <iostream>
 
 namespace factory = gmsh::model::geo;
