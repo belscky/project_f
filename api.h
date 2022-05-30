@@ -25,11 +25,6 @@ public:
 	void buildSurfaces();
 	void build();
 
-	//TODO:
-	//animation and volume
-	void animate();
-	double volume();
-
 };
 
 void gmshInit();
